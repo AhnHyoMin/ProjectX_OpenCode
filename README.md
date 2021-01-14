@@ -5,6 +5,9 @@
 
 - Unity 2020.2.1f1
 
+# 프로젝트 방향
+- RPG 프로젝트로 진행 예정
+
 # Works
 
 ### ProjectManager
